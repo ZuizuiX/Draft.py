@@ -11,6 +11,6 @@ while tries<=6:
         print("你猜的大了点")
     else:
         print("猜小了！！")
-    tries+=2
+    tries+=1
 else:
     print("原来你不会读心术，就这样吧，Bye bye!")
